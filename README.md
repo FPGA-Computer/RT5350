@@ -10,3 +10,5 @@ vmlinux is under "build_dir/target-mipsel_r2_uClibc-0.9.33.2/linux-ramips_rt305x
 I modified one of the entries in the build script: "image_builder_rt5350.sh" located at the root of the package. 
 This builds a wifi router with luci web interface and has opkg and USB mass storage support.
 
+Project page: http://hw-by-design.blogspot.com/2018/08/rt5350-3g-router-firmware.html
+Project hosting site: https://hw-by-design.blogspot.com/
